@@ -4,7 +4,7 @@ Implementing Balancer's Multi Token Pool to Meter Testnet. It will let anyone cr
 
 # Use Case
 
-There are two categories of users who can benefit from the Balancer Protocol:
+There are two categories of users who can benefit from the Balancer Protocol:-
 
 liquidity providers - who own Balancer Pools or participate in shared pools,
 
