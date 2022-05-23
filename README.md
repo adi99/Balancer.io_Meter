@@ -1,4 +1,4 @@
-# Balancer Pool Management
+# Balancer Pool Management (Meter Testnet)
 
 Implementing Balancer's Multi Token Pool to Meter Testnet. It will let anyone create liquidity Pool with more than 2 token (unlike Uniswap). It will let users decide the weightage of the different tokens. Users can add upto 8 tokens. These multi Token Pool gives Uses more freedeom regarding Token Uses. 
 
