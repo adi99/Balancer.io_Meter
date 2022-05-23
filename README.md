@@ -1,4 +1,4 @@
-# Synthetix Index Management
+# Balancer Pool Management
 
 Index management interface for users to add and remove liquidity to Synthetix Assests.
 
